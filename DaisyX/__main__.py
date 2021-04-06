@@ -78,7 +78,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Tualvungi i group ah rawh💫", url="t.me/miss_tualvungi_bot?startgroup=true"
+            text="💫 Tualvungi i group ah add rawh💫", url="t.me/miss_tualvungi_bot?startgroup=true"
         ),
     ],
 ]
